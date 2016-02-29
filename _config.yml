@@ -1,0 +1,28 @@
+name: anthonyliang
+favicon: null
+layout_spectrum: 0.7012337457854301
+typography_spectrum: 0.7977004612330347
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5488864635117352
+  lightness: 0.7952213070821017
+  saturation: 0.05811504973098636
+  rhythmicContrast: 0.9829583156388253
+purpose: []
